@@ -1,0 +1,22 @@
+{
+  "name": "entregable-10-03",
+  "version": "1.0.0",
+  "description": "entregable clase 10-03-2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianCalo/trabajos-POO.git"
+  },
+  "author": "adrian calo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianCalo/trabajos-POO/issues"
+  },
+  "homepage": "https://github.com/AdrianCalo/trabajos-POO#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.3"
+  }
+}

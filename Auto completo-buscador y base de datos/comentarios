@@ -1,0 +1,3 @@
+forEach() ejecuta la función callback una vez por cada elemento del array.
+
+se instalo en dependencia tipos de node con comando npm i @types/nodes -D

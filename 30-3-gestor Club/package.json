@@ -1,0 +1,27 @@
+{
+  "name": "entregable-30-03",
+  "version": "1.0.0",
+  "description": "interface,classAbstract,IngresoClub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianCalo/entregable-30-3.git"
+  },
+  "author": "adrian calo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianCalo/entregable-30-3/issues"
+  },
+  "homepage": "https://github.com/AdrianCalo/entregable-30-3#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.7",
+    "@types/readline-sync": "^1.4.4"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.1"
+  }
+}

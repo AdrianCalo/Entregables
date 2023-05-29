@@ -1,0 +1,11 @@
+{
+  "name": "entregable-22-03",
+  "version": "1.0.0",
+  "description": "entregable 22/3 clases casino, juegos casino etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adrian calo",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "nombre": "pablo",
+    "apellido": "rodriguez",
+    "fechaDeNacimiento": "Invalid Date",
+    "documento": 20563359,
+    "telefono": 2456,
+    "miembroDesde": "29/5/2023",
+    "deporte": 6
+  }
+]

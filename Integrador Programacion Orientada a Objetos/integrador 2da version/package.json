@@ -1,0 +1,20 @@
+{
+  "name": "integrador_2do_intento",
+  "version": "1.0.0",
+  "description": "integrador grupal legajo escuela",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adrian calo",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.12",
+    "@types/readline-sync": "^1.4.4",
+    "@types/uuid": "^9.0.1"
+  }
+}

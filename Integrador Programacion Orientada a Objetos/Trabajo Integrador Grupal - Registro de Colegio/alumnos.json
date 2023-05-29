@@ -1,0 +1,233 @@
+[
+ {
+  "nombre": "Gaston",
+  "apellido": "Fauret",
+  "dni": "32067437",
+  "fechaNacimiento": "20/05/1986",
+  "matricula": 4919,
+  "modalidad": "Naturales",
+  "materias": {
+   "biologia": 10,
+   "fisica": 9,
+   "quimica": 8,
+   "anatomia": 8
+  },
+  "promedio": 8.75,
+  "profesores": {
+   "biologia": "Manuel Barraza",
+   "fisica": "Marcela Rojas",
+   "quimica": "Marcela Rojas",
+   "anatomia": "Claudia Morales"
+  }
+ },
+ {
+  "nombre": "Tomas",
+  "apellido": "Cardenas",
+  "dni": "37234765",
+  "fechaNacimiento": "01/02/1996",
+  "matricula": 9728,
+  "modalidad": "Sociales",
+  "materias": {
+   "sociales": 10,
+   "civica": 6,
+   "politica": 8,
+   "sociologia": 4
+  },
+  "promedio": 7,
+  "profesores": {
+   "sociales": "Carlos Benitez",
+   "civica": "Carlos Benitez",
+   "politica": "Roberto Mandraccio",
+   "sociologia": "Cristina Del Curto"
+  }
+ },
+ {
+  "nombre": "Milagros",
+  "apellido": "Aguilar",
+  "dni": "37680325",
+  "fechaNacimiento": "12/04/1996",
+  "matricula": 2357,
+  "modalidad": "Naturales",
+  "materias": {
+   "biologia": 9,
+   "fisica": 5,
+   "quimica": 8,
+   "anatomia": 4
+  },
+  "promedio": 6.5,
+  "profesores": {
+   "biologia": "Manuel Barraza",
+   "fisica": "Marcela Rojas",
+   "quimica": "Marcela Rojas",
+   "anatomia": "Claudia Morales"
+  }
+ },
+ {
+  "nombre": "Alejandro",
+  "apellido": "Correa",
+  "dni": "38940127",
+  "fechaNacimiento": "30/11/1997",
+  "matricula": 5688,
+  "modalidad": "Sociales",
+  "materias": {
+   "sociales": 9,
+   "civica": 7,
+   "politica": 6,
+   "sociologia": 7
+  },
+  "promedio": 7.25,
+  "profesores": {
+   "sociales": "Carlos Benitez",
+   "civica": "Carlos Benitez",
+   "politica": "Roberto Mandraccio",
+   "sociologia": "Cristina Del Curto"
+  }
+ },
+ {
+  "nombre": "Maria Angeles",
+  "apellido": "Garcia",
+  "dni": "34805743",
+  "fechaNacimiento": "23/10/1987",
+  "matricula": 6672,
+  "modalidad": "Naturales",
+  "materias": {
+   "biologia": 7,
+   "fisica": 6,
+   "quimica": 5,
+   "anatomia": 8
+  },
+  "promedio": 6.5,
+  "profesores": {
+   "biologia": "Manuel Barraza",
+   "fisica": "Marcela Rojas",
+   "quimica": "Marcela Rojas",
+   "anatomia": "Claudia Morales"
+  }
+ },
+ {
+  "nombre": "Anabela",
+  "apellido": "Gonzalez",
+  "dni": "30980675",
+  "fechaNacimiento": "17/07/1984",
+  "matricula": 1502,
+  "modalidad": "Sociales",
+  "materias": {
+   "sociales": 7,
+   "civica": 7,
+   "politica": 6,
+   "sociologia": 7
+  },
+  "promedio": 6.75,
+  "profesores": {
+   "sociales": "Carlos Benitez",
+   "civica": "Carlos Benitez",
+   "politica": "Roberto Mandraccio",
+   "sociologia": "Cristina Del Curto"
+  }
+ },
+ {
+  "nombre": "Carolina",
+  "apellido": "Sanchez",
+  "dni": "30721324",
+  "fechaNacimiento": "06/05/1980",
+  "matricula": 2653,
+  "modalidad": "Naturales",
+  "materias": {
+   "biologia": 6,
+   "fisica": 5,
+   "quimica": 4,
+   "anatomia": 6
+  },
+  "promedio": 5.25,
+  "profesores": {
+   "biologia": "Manuel Barraza",
+   "fisica": "Marcela Rojas",
+   "quimica": "Marcela Rojas",
+   "anatomia": "Claudia Morales"
+  }
+ },
+ {
+  "nombre": "Roberto",
+  "apellido": "Caceres",
+  "dni": "27090756",
+  "fechaNacimiento": "17/10/1978",
+  "matricula": 6103,
+  "modalidad": "Naturales",
+  "materias": {
+   "biologia": 8,
+   "fisica": 7,
+   "quimica": 2,
+   "anatomia": 5
+  },
+  "promedio": 5.5,
+  "profesores": {
+   "biologia": "Manuel Barraza",
+   "fisica": "Marcela Rojas",
+   "quimica": "Marcela Rojas",
+   "anatomia": "Claudia Morales"
+  }
+ },
+ {
+  "nombre": "Juan Carlos",
+  "apellido": "Alfonsin",
+  "dni": "20234720",
+  "fechaNacimiento": "11/10/1960",
+  "matricula": 5662,
+  "modalidad": "Sociales",
+  "materias": {
+   "sociales": 7,
+   "civica": 10,
+   "politica": 9,
+   "sociologia": 8
+  },
+  "promedio": 8.5,
+  "profesores": {
+   "sociales": "Carlos Benitez",
+   "civica": "Carlos Benitez",
+   "politica": "Roberto Mandraccio",
+   "sociologia": "Cristina Del Curto"
+  }
+ },
+ {
+  "nombre": "Maria Del Carmen",
+  "apellido": "Bonetti",
+  "dni": "11980432",
+  "fechaNacimiento": "04/12/1955",
+  "matricula": 3884,
+  "modalidad": "Naturales",
+  "materias": {
+   "biologia": 7,
+   "fisica": 9,
+   "quimica": 5,
+   "anatomia": 3
+  },
+  "promedio": 6,
+  "profesores": {
+   "biologia": "Manuel Barraza",
+   "fisica": "Marcela Rojas",
+   "quimica": "Marcela Rojas",
+   "anatomia": "Claudia Morales"
+  }
+ },
+ {
+  "nombre": "adrian",
+  "apellido": "calo",
+  "dni": "35411853",
+  "fechaNacimiento": "05/10/1990",
+  "matricula": 106,
+  "modalidad": "Naturales",
+  "materias": {
+   "biologia": 7,
+   "fisica": 8,
+   "quimica": 9,
+   "anatomia": 6
+  },
+  "promedio": 7.5,
+  "profesores": {
+   "biologia": "Manuel Barraza",
+   "fisica": "Marcela Rojas",
+   "quimica": "Marcela Rojas",
+   "anatomia": "Claudia Morales"
+  }
+ }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "nombre": "naiquen",
+    "apellido": "antilef",
+    "dni": 41329015,
+    "fecha_nacimiento": "pelegrini 331",
+    "domicilio": "17/7/98",
+    "id": "1840577",
+    "materias": [],
+    "matriculaID": "612dc",
+    "curso": {
+      "nombre": "recursos humanos",
+      "IdCurso": "c71d"
+    },
+    "contactoEmergencia": 2281572898
+  },
+  {
+    "nombre": "gaston",
+    "apellido": "fauret",
+    "dni": 33510153,
+    "fecha_nacimiento": "tucuman",
+    "domicilio": "24/5/88",
+    "id": "c217030",
+    "materias": [],
+    "matriculaID": "20131",
+    "curso": {
+      "nombre": "programacion",
+      "IdCurso": "b7d7"
+    },
+    "contactoEmergencia": 2281279898
+  },
+  {
+    "nombre": "imanol",
+    "apellido": "astray",
+    "dni": 36627458,
+    "fecha_nacimiento": "roque sanz pe�a 324",
+    "domicilio": "5/02/91",
+    "id": "fb03c79",
+    "materias": [],
+    "matriculaID": "fca05",
+    "curso": {
+      "nombre": "ingenieria civil",
+      "IdCurso": "197d"
+    },
+    "contactoEmergencia": 2281572898
+  },
+  {
+    "nombre": "adrian",
+    "apellido": "calo",
+    "dni": 35411853,
+    "fecha_nacimiento": "pelgrini 331",
+    "domicilio": "5/10/1990",
+    "id": "f4d7398",
+    "materias": [
+      {
+        "nombre": "matematica",
+        "nota": 0
+      },
+      {
+        "nombre": "fisica",
+        "nota": 0
+      },
+      {
+        "nombre": "analisis matematico",
+        "nota": 0
+      },
+      {
+        "nombre": "herreria",
+        "nota": 0
+      },
+      {
+        "nombre": "neumatica",
+        "nota": 0
+      }
+    ],
+    "matriculaID": "07dce",
+    "curso": {
+      "nombre": "electromecanica",
+      "IdCurso": "1a5c"
+    },
+    "contactoEmergencia": 2281550283
+  },
+  {
+    "nombre": "sebastian",
+    "apellido": "calo",
+    "dni": 33153510,
+    "fecha_nacimiento": "chavez",
+    "domicilio": "28/4/87",
+    "id": "1e893b6",
+    "materias": [],
+    "matriculaID": "29a83",
+    "curso": {
+      "nombre": "historia",
+      "IdCurso": "6852"
+    },
+    "contactoEmergencia": 2281572898
+  }
+]

@@ -1,0 +1,129 @@
+[
+ {
+  "nombre": "Manuel",
+  "apellido": "Barraza",
+  "dni": "30740320",
+  "fechaNacimiento": "01/04/1980",
+  "contrato": 1797,
+  "modalidad": "Naturales",
+  "materias": [
+   "Biologia"
+  ],
+  "alumnosAsignados": [
+   "Gaston Fauret",
+   "Milagros Aguilar",
+   "Maria Angeles Garcia",
+   "Carolina Sanchez",
+   "Roberto Caceres",
+   "Maria Del Carmen Bonetti"
+  ]
+ },
+ {
+  "nombre": "Marcela",
+  "apellido": "Rojas",
+  "dni": "32310625",
+  "fechaNacimiento": "13/05/1986",
+  "contrato": 630,
+  "modalidad": "Naturales",
+  "materias": [
+   "Fisica",
+   "Quimica"
+  ],
+  "alumnosAsignados": [
+   "Gaston Fauret",
+   "Milagros Aguilar",
+   "Maria Angeles Garcia",
+   "Carolina Sanchez",
+   "Roberto Caceres",
+   "Maria Del Carmen Bonetti"
+  ]
+ },
+ {
+  "nombre": "Claudia",
+  "apellido": "Morales",
+  "dni": "27098147",
+  "fechaNacimiento": "12/12/1978",
+  "contrato": 4106,
+  "modalidad": "Naturales",
+  "materias": [
+   "Anatomia"
+  ],
+  "alumnosAsignados": [
+   "Gaston Fauret",
+   "Milagros Aguilar",
+   "Maria Angeles Garcia",
+   "Carolina Sanchez",
+   "Roberto Caceres",
+   "Maria Del Carmen Bonetti"
+  ]
+ },
+ {
+  "nombre": "Carlos",
+  "apellido": "Benitez",
+  "dni": "35411054",
+  "fechaNacimiento": "22/10/1993",
+  "contrato": 8677,
+  "modalidad": "Sociales",
+  "materias": [
+   "Sociales",
+   "Civica"
+  ],
+  "alumnosAsignados": [
+   "Tomas Cardenas",
+   "Alejandro Correa",
+   "Anabela Gonzalez",
+   "Juan Carlos Alfonsin"
+  ]
+ },
+ {
+  "nombre": "Roberto",
+  "apellido": "Mandraccio",
+  "dni": "33425340",
+  "fechaNacimiento": "25/02/1987",
+  "contrato": 7493,
+  "modalidad": "Sociales",
+  "materias": [
+   "Politica"
+  ],
+  "alumnosAsignados": [
+   "Tomas Cardenas",
+   "Alejandro Correa",
+   "Anabela Gonzalez",
+   "Juan Carlos Alfonsin"
+  ]
+ },
+ {
+  "nombre": "Cristina",
+  "apellido": "Del Curto",
+  "dni": "37320975",
+  "fechaNacimiento": "03/06/1996",
+  "contrato": 510,
+  "modalidad": "Sociales",
+  "materias": [
+   "Sociologia"
+  ],
+  "alumnosAsignados": [
+   "Tomas Cardenas",
+   "Alejandro Correa",
+   "Anabela Gonzalez",
+   "Juan Carlos Alfonsin"
+  ]
+ },
+ {
+  "nombre": "juan",
+  "apellido": "smoes",
+  "dni": "32165987",
+  "fechaNacimiento": "05/06/88",
+  "contrato": 5000,
+  "modalidad": "Naturales",
+  "materias": [
+   "Fisica"
+  ],
+  "alumnosAsignados": [
+   "Tomas Cardenas",
+   "Alejandro Correa",
+   "Anabela Gonzalez",
+   "Juan Carlos Alfonsin"
+  ]
+ }
+]
