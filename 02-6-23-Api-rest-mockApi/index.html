@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Api-rest-mockApi</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="https://kit.fontawesome.com/dc62d06b78.js" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+    <script src="index.js" defer></script>
+</head>
+<body>
+    <h1>Api-rest-mockApi</h1>
+    <span id="error"></span>
+    <nav class="navegador">
+        <div class="search-conteiner">
+            <input type="search"  id="search-input" placeholder="Search">
+        </div>
+        <div class="contenedorButton">
+          <button id="btn-search"><box-icon name='search-alt'></box-icon></button>
+          <button id="All_data"><i class="fa-solid fa-users"></i></button>    
+          <button id="delete"><i class="fa-sharp fa-solid fa-trash"></i></button>
+          <button id="edit"><i class="fa-solid fa-user-pen"></i></button>
+          <button id="btn-open-modal"><i class="fa-solid fa-user-plus"></i></button>
+        </div>
+         
+                      
+        <dialog id="modal">
+          <form action="" method="dialog" id="form">
+            <label for="fullName">Nombre completo
+              <input type="text" id="fullName" name="fullName" required>
+            </label>
+            <label for="address">Domicilio
+              <input type="text" name="address" id="address" required>
+            </label>
+            <label for="email">Correo Electrónico
+              <input type="email" id="email" name="email" required>
+            </label>
+            <label for="phone">Teléfono
+              <input type="tel" id="phone" name="phone" required
+                pattern="^(?:(?:00)?549?)?0?(?:11|[2368]\d)(?:(?=\d{0,2}15)\d{2})??\d{8}$">
+            </label>
+            <div class="conteiner-btn">
+              <input class="gestores" type="submit" value="aceptar" id="upDate">
+              <input class="gestores" type="reset" value="limpiar">
+              <input class="gestores" type="button" value="cancelar" id="close-modal">
+            </div>
+          </form>
+        </dialog>
+    </nav>
+
+    <section id="solicitud" style="display: none;">
+        <h5>Ingrese datos a modificar de:</h5>
+        <div id="contenedor-modInput">
+          <input type="" id="IdUser" placeholder="ID">
+          <input type="text" id="modUser" placeholder="New full name">
+          <input type="text" id="modAddress" placeholder="New Address">
+          <input type="email" id="modEmail" placeholder="New E-Mail" required>
+          <input type="tel"  id="modPhone" placeholder="New Phone" required pattern="^(?:(?:00)?549?)?0?(?:11|[2368]\d)(?:(?=\d{0,2}15)\d{2})??\d{8}$">
+        </div>
+        <div class="contenedor-boton">
+          <button type="submit" id="btnActualiza">Aceptar</button>
+          <button value="cancel" id="btnCancel">Cancelar</button>
+        </div>
+      </section>
+
+
+    <p class="respuesta" id="respuesta"></p>
+    <section class="contenedor">
+        <table id="tabla">
+            <thead>
+                <th>N° user</th>
+                <th>Full Name</th>
+                <th>Address</th>
+                <th>E-mail</th>
+                <th>Phone number</th>
+            </thead>
+        </table>
+    </section>
+</body>
+</html>
