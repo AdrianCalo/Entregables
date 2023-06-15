@@ -53,7 +53,7 @@ nav{
     box-shadow: 0 0 15px hsl(0, 100%, 50%);
     transition: all .3s ease-in-out; 
 }
-#edit{
+#edit:hover{
     box-shadow: 0 0 15px hsl(295, 100%, 50%);
     transition: all .3s ease-in-out;
 }
